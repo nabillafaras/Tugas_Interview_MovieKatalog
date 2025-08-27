@@ -1,7 +1,18 @@
 # tugas_movie
-A new Flutter project.
+## 📽️ Movie Catalog
 
-![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg) ![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Search_Movie.jpg) ![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg)
+Project **Movie Catalog** ini dikembangkan sebagai bagian dari tugas teknik dalam proses seleksi kerja (interview) yang berlangsung pada tanggal 25 Agustus 2025.
+
+Aplikasi ini dibuat menggunakan **Flutter**, dan mencakup fitur-fitur seperti:
+- Menampilkan daftar film
+- Menampilkan detail setiap film
+
+Tujuan dari project ini adalah untuk menunjukkan kemampuan dalam pengembangan aplikasi mobile dengan Flutter, serta penggunaan API untuk mengambil data film.
+
+
+![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg) 
+![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Search_Movie.jpg) 
+![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg)
 
 
 ## Getting Started
