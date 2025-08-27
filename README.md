@@ -10,7 +10,7 @@ Aplikasi ini dibuat menggunakan **Flutter**, dan mencakup fitur-fitur seperti:
 Tujuan dari project ini adalah untuk menunjukkan kemampuan dalam pengembangan aplikasi mobile dengan Flutter, serta penggunaan API untuk mengambil data film.
 
 
-![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg) 
+![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Home_Movie.jpg) 
 ![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Search_Movie.jpg) 
 ![Image Alt](https://github.com/nabillafaras/Tugas_Interview_MovieKatalog/blob/ffe235ba92bfb8be181897571f6ed05f5396af05/Watchlist_Movie.jpg)
 
